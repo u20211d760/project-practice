@@ -1,5 +1,5 @@
 {
-  "name": "project-practice",
+  "name": "catch-up",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@primeuix/themes": "^1.0.3",
-    "axios": "^1.9.0",
+    "axios": "^1.8.4",
     "primeflex": "^4.0.0",
     "primeicons": "^7.0.0",
     "primevue": "^4.3.3",
