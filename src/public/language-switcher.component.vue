@@ -4,7 +4,7 @@ export default {
   data() {
     return {
       languages: ['en', 'es'],
-        }
+    }
   }
 }
 </script>
